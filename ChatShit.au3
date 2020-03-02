@@ -18,9 +18,9 @@ Global $pickx = 0, $picky = 0,$on = 0
 
 While 1
 	While $on
-		If WinActive("Dransik Classic") Then ;Make sure the game is in Focus
-
-		EndIf
+	  If WinExists("Dransik Classic") Then ;Make sure the game is in Focus
+	  sleep (500)
+	  EndIf
 	WEnd
 WEnd
 
