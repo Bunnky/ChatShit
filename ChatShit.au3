@@ -1,3 +1,6 @@
+this doesnt work anymore is just here to show how stupid shit was...
+
+
 ;Chatshit Vorila Dransik
 ;Kyle GusToughSon Bishop
 ;Discord : GusToughSon#7073
